@@ -50,7 +50,6 @@ public class Main {
         System.out.println("Diagonal: " + diagonalSum);
     }
 }
-
         // TODO: Fill an N×N matrix in clockwise spiral order starting from 1
         //       Print each row with values separated by single space
         //       Then print: "Diagonal: X" where X = sum of primary diagonal (top-left to bottom-right)
